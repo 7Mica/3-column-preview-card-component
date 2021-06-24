@@ -103,7 +103,7 @@ p {
   border-style: none;
   letter-spacing: 0.5px;
   line-height: 0.88;
-  font-weight: 600;
+  font-weight: 500;
   border: 2px hsl(0, 0%, 95%) solid;
   transition: background 500ms;
 }

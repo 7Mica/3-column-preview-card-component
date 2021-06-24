@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://7mica.github.io/3-column-preview-card-component/)
-- [Live Site URL](https://github.com/7Mica/3-column-preview-card-component)
+- [Solution URL](https://github.com/7Mica/3-column-preview-card-component)
+- [Live Site URL](https://7mica.github.io/3-column-preview-card-component/)
 
 ## My process
 
