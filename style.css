@@ -146,6 +146,10 @@ p {
     margin: 0 auto;
   }
 
+  .cards {
+    padding: 90px 25px;
+  }
+
   .card {
     flex: unset;
   }
